@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+ 
+
+background: url(https://img.freepik.com/fotos-gratis/vista-superior-dos-cadernos-na-mesa_23-2148816279.jpg?w=740&t=st=1710439908~exp=1710440508~hmac=12f1ce58f9aabe61e59f56b565d11b7c556950368320b134579e8c890b9a4f46);
+background-position: 10px -120px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#circle{
+text-align: center;
+font-family: sans-serif;
+text-shadow: 7px 7px 5px white;
+}
+
+#taskInput{
+    transform: translate(-50%);
+    margin-left: 50%;
+    border-radius: 25px;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+button{
+    border-radius:20px;
+    font-size: 17px;
+    transform: translate(-50%);
+    margin-left: -48px;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#taskList{
+text-align: center;
+color: rgb(0, 0, 0);
+font-size: 20px;
+}
+
